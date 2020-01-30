@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=source
+comment1.target=Maze(java.lang.String)
+comment2.params=
+comment2.target=void\ parseFile()
+comment3.params=
+comment3.target=int\ getRows()
+comment4.params=
+comment4.target=int\ getCols()
+comment5.params=
+comment5.target=int\ getStartRow()
+comment6.params=
+comment6.target=int\ getEndRow()
+comment7.params=
+comment7.target=int\ getEndCol()
+comment8.params=
+comment8.target=void\ printMaze()
+comment9.params=
+comment9.target=void\ solveMaze()
+numComments=10

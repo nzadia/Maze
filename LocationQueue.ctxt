@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LocationQueue
+comment1.params=
+comment1.target=LocationQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=j
+comment3.target=void\ insert(Location)
+comment4.params=
+comment4.target=Location\ remove()
+comment5.params=
+comment5.target=void\ displayQueue()
+numComments=6
